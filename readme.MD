@@ -28,12 +28,10 @@ Gemini API 是[免费的](https://ai.google.dev/pricing "limits applied!"),
 
 
 ### 使用 Vercel 进行部署
-||||||
-vvvvvv
 
  [![Vercel部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/PublicAffairs/openai-gemini&repository-name=my-openai-gemini)
-- Alternatively can be deployed with [cli](https://vercel.com/docs/cli):
-  `vercel deploy`
+-或者可以部署到 [命令行](https://vercel.com/docs/cli):
+  `vercel 部署`
 - Serve locally: `vercel dev`
 - Vercel _Functions_ [limitations](https://vercel.com/docs/functions/limitations) (with _Edge_ runtime)
 
