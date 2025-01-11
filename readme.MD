@@ -1,18 +1,15 @@
 ## 为什么？
 
-The Gemini API is [free](https://ai.google.dev/pricing "limits applied!"),
-but there are many tools that work exclusively with the OpenAI API.
+Gemini API 是[免费的](https://ai.google.dev/pricing "limits applied!"),
+而且许多工具专门与 OpenAI API 配合使用。
 
-This project provides a personal OpenAI-compatible endpoint for free.
+该项目免费提供个人 OpenAI 兼容端点。
 
+## 没有服务器怎么办？
 
-## Serverless?
+因为它运行在云端，而且不需要服务器维护。它都可以轻松地免费部署到各种提供商（！无法翻译！机器翻译后：具有适合个人使用的慷慨限制）。
 
-Although it runs in the cloud, it does not require server maintenance.
-It can be easily deployed to various providers for free
-(with generous limits suitable for personal use).
-
-> [!TIP]
+> [!提示]
 > Running the proxy endpoint locally is also an option,
 > though it's more appropriate for development use.
 
