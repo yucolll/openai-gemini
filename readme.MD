@@ -19,8 +19,8 @@ Gemini API 是[免费的](https://ai.google.dev/pricing "limits applied!"),
 访问google获取 [API key](https://makersuite.google.com/app/apikey).
 
 > [!IMPORTANT]
-> Even if you are located outside of the [supported regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions),
-> it is still possible to acquire one using a VPN.
+> 即使您位于其他国家请查看[支持的区域](https://ai.google.dev/gemini-api/docs/available-regions#available_regions),
+> 仍然可以使用 VPN 获取一个。（无法提供VPN地址）
 
 Deploy the project to one of the providers, using the instructions below.
 You will need to set up an account there.
