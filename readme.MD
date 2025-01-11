@@ -22,16 +22,14 @@ Gemini API 是[免费的](https://ai.google.dev/pricing "limits applied!"),
 > 即使您位于其他国家请查看[支持的区域](https://ai.google.dev/gemini-api/docs/available-regions#available_regions),
 > 仍然可以使用 VPN 获取一个。（无法提供VPN地址）
 
-Deploy the project to one of the providers, using the instructions below.
-You will need to set up an account there.
+使用以下项目部署到提供商之一。您需要在那里登录/创建一个帐户。
 
-If you opt for “button-deploy”, you'll be guided through the process of forking the repository first,
-which is necessary for continuous integration (CI).
+如果您选择“按钮部署”，系统将引导您首先完成分叉存储库的过程，这是持续集成 (CI) 所必需的。
 
 
-### Deploy with Vercel
+### 使用 Vercel 进行部署
 
- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/PublicAffairs/openai-gemini&repository-name=my-openai-gemini)
+ [![Vercel部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/PublicAffairs/openai-gemini&repository-name=my-openai-gemini)
 - Alternatively can be deployed with [cli](https://vercel.com/docs/cli):
   `vercel deploy`
 - Serve locally: `vercel dev`
