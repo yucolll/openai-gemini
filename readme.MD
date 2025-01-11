@@ -9,14 +9,14 @@ Gemini API 是[免费的](https://ai.google.dev/pricing "limits applied!"),
 
 因为它运行在云端，而且不需要服务器维护。它都可以轻松地免费部署到各种提供商（！无法翻译！机器翻译后：具有适合个人使用的慷慨限制）。
 
-> [!TIP]提示
+> [!TIP]
 > ！无法翻译！机器翻译后: 在本地运行代理端点也是一种选择，
 > 尽管它更适合开发使用。
 
 
-## How to start
+## 如何开始呢？
 
-You will need a personal Google [API key](https://makersuite.google.com/app/apikey).
+访问google获取 [API key](https://makersuite.google.com/app/apikey).
 
 > [!IMPORTANT]
 > Even if you are located outside of the [supported regions](https://ai.google.dev/gemini-api/docs/available-regions#available_regions),
